@@ -1,0 +1,19 @@
+ion-header {
+    --background: linear-gradient(45deg, #02142B, #0D3065, #2E8A78);
+    z-index: 1;
+}
+  
+  /* Apply gradient background to ion-toolbar */
+  ion-toolbar {
+    --background: linear-gradient(45deg, #02142B, #0D3065, #2E8A78);
+  }
+  .title-white {
+    color: white;
+  }
+  .header-background {
+    z-index: 1; /* Ensure the header is above the content */
+  }
+  .profile-icon
+  {
+    margin-top: 17px;
+  }
